@@ -1,3 +1,4 @@
+#Frequency of string
 text="banana"
 freq={}
 for i in text:
