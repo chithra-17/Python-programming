@@ -41,5 +41,7 @@ for i in student.values():
 for i in student.items():
     print(i)
 
+print(student.get("101","age"))
+
 
 

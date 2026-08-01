@@ -7,6 +7,7 @@ for i in str:
         freq[i]+=1
     else:
         freq[i]=1
+print(freq)
 
 for key,values in freq.items():
     print(key,values)
